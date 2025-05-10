@@ -1,2 +1,2 @@
-# personal
+# LuidiSL
 My personal repository
