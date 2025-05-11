@@ -1,8 +1,9 @@
 # LuidiSL
-My personal repository
+<pre>
+<b>My personal repository</b>
 
-
-VS Code Extensions
+<b>Visual Studio Code</b>
+<b>VS Code Extensions</b>
 * Live Server
 * Image Preview
 * Auto Rename Tag
@@ -12,29 +13,30 @@ VS Code Extensions
 * Python
 * Dracula Theme Official
 
-VS Code Themes
+<b>VS Code Themes</b>
 * One Monokai Theme
 
-Visual Studio Code - Links
+<b>VS Code - Links</b>
 * CRTL + SHIFT + P => Command Palette
 * CRTL + "," => Settings
 * CRTL + SHIFT + X => Extensions
 
-
-Node.js
+<b>Node.js</b>
 * npm => Node Package Manager
 * npm -i express
 * npm -i mongodb
 
+<b>Python</b>
+* ...
 
-Python
+<b>Settings Tutorial</b>
 
-
-Settings Tutorial - Hashtag Programação
+<u><b>Hashtag Programação</b></u>
 https://www.youtube.com/@HashtagProgramacao
 
-Instalação do VS Code e Node JS para Desenvolvimento Full Stack (+Top Extensões)
+* <b>Instalação do VS Code e Node JS para Desenvolvimento Full Stack (+Top Extensões)</b>
 https://www.youtube.com/watch?v=fzgL5YIL77Q
 
-Como Configurar VSCode para Python
+* <b>Como Configurar VSCode para Python</b>
 https://www.youtube.com/watch?v=Zy3iaMZbPO8
+</pre>
