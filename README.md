@@ -7,24 +7,24 @@ VS Code Extensions
 * Image Preview
 * Auto Rename Tag
 * ES7+ React/Redux/React-Native snippets
-|____ rafce => React Arrow Function Component Export
+	rafce => React Arrow Function Component Export
 * Prettier - Code formatter
-Python
-Dracula Theme Official
+* Python
+* Dracula Theme Official
 
 VS Code Themes
 * One Monokai Theme
 
 Visual Studio Code - Links
-CRTL + SHIFT + P => Command Palette
-CRTL + "," => Settings
-CRTL + SHIFT + X => Extensions
+* CRTL + SHIFT + P => Command Palette
+* CRTL + "," => Settings
+* CRTL + SHIFT + X => Extensions
 
 
 Node.js
-|____ npm => Node Package Manager
-|____ npm -i express
-|____ npm -i mongodb
+* npm => Node Package Manager
+* npm -i express
+* npm -i mongodb
 
 
 Python
