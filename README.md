@@ -34,7 +34,7 @@
 <u><b>Hashtag Programação</b></u>
 https://www.youtube.com/@HashtagProgramacao
 
-* <b>Instalação do VS Code e Node JS para Desenvolvimento Full Stack (+Top Extensões)</b>
+* <b>Instalação do VS Code e Node JS para Desenvolvimento Full Stack...</b>
 https://www.youtube.com/watch?v=fzgL5YIL77Q
 
 * <b>Como Configurar VSCode para Python</b>
